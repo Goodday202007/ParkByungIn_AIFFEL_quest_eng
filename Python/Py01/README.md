@@ -1,31 +1,18 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 코더 : 박병인
+- 리뷰어 : 김병
 
 
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-      '''
-        - # Test
-target1 = "여보게저기저게보여"
-target2 = "보이긴뭐보여저기가"
-target3 = "abcdeffedcba"
-target4 = "abcdef+-fedcba"
+        - 결과1 (개발완료)
+<img width="322" height="293" alt="result1" src="https://github.com/user-attachments/assets/1d245a16-fb32-42f5-9931-29b33e72276c" />
+        - 결과2 (개발중)
+<img width="407" height="312" alt="result2" src="https://github.com/user-attachments/assets/0704228d-7365-4e31-b26b-03370d351345" />
 
-print(is_palindrome(target1)) # True
-print(is_palindrome(target2)) # False
-print(is_palindrome(target3)) # True
-print(is_palindrome(target4)) # False
-
-     
-True
-False
-True
-False
-'''
-
+      
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
