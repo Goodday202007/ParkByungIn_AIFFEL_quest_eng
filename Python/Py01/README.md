@@ -12,7 +12,7 @@
 <img width="322" height="293" alt="result1" src="https://github.com/user-attachments/assets/1d245a16-fb32-42f5-9931-29b33e72276c" />
         
         
-        - 2번 퀴즈 : 개발중
+        - 2번 퀴즈 : 개발중 
         
 <img width="407" height="312" alt="result2" src="https://github.com/user-attachments/assets/0704228d-7365-4e31-b26b-03370d351345" />
 
